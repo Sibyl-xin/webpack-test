@@ -1,1 +1,2 @@
-# webpack-test
+这是一个很简单的关于webpack打包的案例
+下载后用 npm install 下载npm依赖即可使用
